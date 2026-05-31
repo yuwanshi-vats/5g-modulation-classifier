@@ -22,8 +22,8 @@ This project simulates that process using ML.
 4. Train Random Forest classifier on extracted features
 
 ## Results
-- 92.4% accuracy at SNR = 20dB
-- 94.8% accuracy at SNR = 25dB
+- 90.4% accuracy at SNR = 20dB
+- 91.8% accuracy at SNR = 25dB
 - 16QAM and 64QAM show expected confusion at low SNR
   due to denser constellation points
 - Amplitude variance and std are most important features
